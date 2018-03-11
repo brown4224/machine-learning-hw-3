@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce3c4cbe-87da-4eb3-93d2-bd6e14a5a3a0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Logistic-Regression.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Logistic-Regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/trash/Logistic-Regression (copy).py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/trash/Logistic-Regression-Test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/trash/Logistic-Regression-complicated-version-bias-weights.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/trash/Logistic-Regression.py" />
-    </list>
+    <list default="true" id="ce3c4cbe-87da-4eb3-93d2-bd6e14a5a3a0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +24,8 @@
       <file leaf-file-name="Logistic-Regression.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Logistic-Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1332">
-              <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state relative-caret-position="463">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="85" selection-end-column="46" />
               <folding>
                 <element signature="e#88#106#0" expanded="true" />
               </folding>
@@ -327,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Logistic-Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1332">
-          <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        <state relative-caret-position="463">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="85" selection-end-column="46" />
           <folding>
             <element signature="e#88#106#0" expanded="true" />
           </folding>
